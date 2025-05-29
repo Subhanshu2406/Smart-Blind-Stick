@@ -72,7 +72,7 @@
 📸 Add your circuit diagram and project photos in a `/media` or `/images` folder and link them here using:
 
 ```markdown
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](media/Circuit-Diagram.png)
 
 ---
 

@@ -67,7 +67,7 @@
 
 ---
 
-## 📷 Diagram
+ 📷 Diagram
 
 ![Circuit Diagram](media/Circuit-Diagram.png)
 

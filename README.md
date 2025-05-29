@@ -67,13 +67,13 @@
 
 ---
 
-📹 Demo Video
+## 📷 Images & Diagrams
 
 ![Circuit Diagram](media/Circuit-Diagram.png)
 
 ---
 
-##📹 Demo Video
+## 📹 Demo Video
 🎥 [Click here to view the demo](https://www.youtube.com/shorts/TlrRZLMOZlE)
 
 > 👆 Hosted on YouTube Shorts. Click to watch the working prototype in action!

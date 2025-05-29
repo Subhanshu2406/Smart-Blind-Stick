@@ -67,16 +67,13 @@
 
 ---
 
-## 📷 Images & Diagrams
+## 📷 Diagram
 
-📸 Add your circuit diagram and project photos in a `/media` or `/images` folder and link them here using:
-
-```markdown
 ![Circuit Diagram](media/Circuit-Diagram.png)
 
 ---
 
-## 📹 Demo Video
-
+##📹 Demo Video
 🎥 [Click here to view the demo](https://www.youtube.com/shorts/TlrRZLMOZlE)
 
+> 👆 Hosted on YouTube Shorts. Click to watch the working prototype in action!
